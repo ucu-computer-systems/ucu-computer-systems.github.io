@@ -1,5 +1,7 @@
 # Інструкції по використанню шаблону C++ проектів для студентів пана Олега Фаренюка
 
+[xx](https://ucu-computer-systems.github.io/cpp-template)
+
 ## TL;DR
 
 1. [Згенерувати](https://github.com/chernetskyi/cpp-template/generate) репозиторій з шаблону
